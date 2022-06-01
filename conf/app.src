@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/git-noter/gitnoter/archive/refs/tags/v1.0.0.tar.gz
+SOURCE_SUM=9396da0fe7e87826820b69ab808628eb2273807c679b330d81e667436bda667f
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
